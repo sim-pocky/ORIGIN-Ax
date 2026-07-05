@@ -1,0 +1,2 @@
+program_label,top_genes,epithelial_marker_rule,cnv_association_rule,high_cnv_presence_rule,naive_malignant_like_call,v1_family_label,v1_final_call,overcall_prevented,allowed_claim
+axis5_like,"TSPAN1,CA4,SLC26A3,CLCA4,DUOX2,KRT20,SELENOP,GUCA2A,CEACAM7,PHGR1,GUCA2B,MUC3A",True,True,True,True,non_identifiable,not_target_axis,True,normal epithelial-like Axis-5 program is not safely interpretable as malignant-origin under current candidates and anchors

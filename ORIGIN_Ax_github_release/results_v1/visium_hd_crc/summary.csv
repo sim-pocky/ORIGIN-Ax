@@ -1,0 +1,2 @@
+dataset,gates_passed,n_candidates,n_axis_families,n_target_families,n_truth_target_families,n_passed_truth_mal_axis,n_false_target_calls,clone_source,cnv_confidence_summary,n_off_target_families,axis5_like_v1_family_label,naive_raw_ica_false_positive_rate,v1_false_positive_rate,has_target_origin_supported_but_attribution_unresolved
+visium_hd_crc,True,64,4,0,0,0,0,cnv,provided mean=0.500 frac_ge_0.50=0.500 pass=True,4,normal_epithelial_like,1.0,0.0,False

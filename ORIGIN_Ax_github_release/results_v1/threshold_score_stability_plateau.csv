@@ -1,0 +1,16 @@
+target_margin_weight,stability_weight,score_threshold,n_datasets,recovery_datasets,specificity_datasets,total_truth_supported,total_unsupported,recovery_and_specificity_all,default_tuple
+0.5,0.5,0.1,3,3,3,4,0,True,False
+0.5,0.5,0.15,3,3,3,4,0,True,False
+0.5,0.5,0.2,3,3,3,4,0,True,False
+0.5,0.5,0.25,3,3,3,4,0,True,False
+0.5,0.5,0.3,3,3,3,4,0,True,False
+0.6,0.4,0.1,3,3,3,4,0,True,False
+0.6,0.4,0.15,3,3,3,4,0,True,False
+0.6,0.4,0.2,3,3,3,4,0,True,True
+0.6,0.4,0.25,3,3,3,4,0,True,False
+0.6,0.4,0.3,3,3,3,4,0,True,False
+0.7,0.30000000000000004,0.1,3,3,3,4,0,True,False
+0.7,0.30000000000000004,0.15,3,3,3,4,0,True,False
+0.7,0.30000000000000004,0.2,3,3,3,4,0,True,False
+0.7,0.30000000000000004,0.25,3,3,3,4,0,True,False
+0.7,0.30000000000000004,0.3,3,3,3,4,0,True,False
