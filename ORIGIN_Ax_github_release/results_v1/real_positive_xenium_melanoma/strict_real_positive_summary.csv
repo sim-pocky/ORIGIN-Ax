@@ -1,3 +1,0 @@
-family_id,final_call,heldout_target_gene_overlap,max_offtarget_source,off_target_affinity,strict_positive,false_target_boundary
-F0,target_axis,4,none,0.43869854878427733,True,False
-F1,not_target_axis,0,malignant_melanoma,0.2477029407574357,False,False

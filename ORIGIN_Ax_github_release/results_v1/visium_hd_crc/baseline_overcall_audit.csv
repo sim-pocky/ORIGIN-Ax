@@ -1,5 +1,0 @@
-dataset,program_label,top_genes,epithelial_marker_rule,cnv_association_rule,high_cnv_presence_rule,naive_malignant_like_call,v1_family_label,v1_final_call,overcall_prevented
-visium_hd_crc,F0,"COL1A1,COL3A1,COL1A2,SPARC,VIM,IGFBP7,TAGLN,COL6A2,COL4A1,MMP2,COL6A3,COL5A1",False,True,True,True,tme_like,off_target_axis,True
-visium_hd_crc,axis5_like,"TSPAN1,CA4,SLC26A3,CLCA4,DUOX2,KRT20,SELENOP,GUCA2A,CEACAM7,PHGR1,GUCA2B,MUC3A",True,True,True,True,normal_epithelial_like,off_target_axis,True
-visium_hd_crc,F2,"AQP1,VWF,ACKR1,MMRN1,PECAM1,EMCN,ENG,EGFL7,SLCO2A1,ADGRL4,RAMP3,TEK",False,True,True,True,normal_epithelial_like,off_target_axis,True
-visium_hd_crc,F3,"SCARA3,DIO2,TRPA1,ANKDD1A,ELMO1,ITGA5,MXRA8,ACAP1,MMP10,GIMAP6,CYBRD1,FAS",False,True,True,True,normal_epithelial_like,off_target_axis,True

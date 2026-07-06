@@ -1,3 +1,0 @@
-family_id,top_genes,call_under_myeloid_target,call_under_stromal_target,target_swap_behavior,conclusion
-myeloid_F1_like,"CXCL10,FCER1G,IFI27,IFI6,HLA-DPB1,SLC8A1,CD68,LYZ,IFITM1,SERPING1,C1QA,IRF1",ambiguous_axis,not_target_axis,myeloid-supported axis is not the stromal strict positive,myeloid F1-like family is target-supported only under the myeloid target definition
-stromal_F2_like,"MMP2,COL6A1,COL6A2,COL6A3,FN1,CXCL12,SFRP2,PDGFRB,LUM,COL5A2,PTGDS,APOD",not_target_axis,target_axis,off-target under myeloid target; target-supported under stromal target,the same stromal-like family rejected as off-target under a myeloid target definition is recovered as target-supported under a stromal target definition

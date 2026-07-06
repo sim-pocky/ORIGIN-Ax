@@ -1,2 +1,0 @@
-Final ORIGIN-Ax v1 checks passed.
-Verified: real strict positive family, real forbidden off-target rejection, CRC Axis-5-like not-target, CRC target families = 0, controlled and pseudo-ST positives recover target families, benchmark refinement retains positives and rejects CRC off-target calls, target-swap recovers the stromal F2-like family only under the stromal target definition.

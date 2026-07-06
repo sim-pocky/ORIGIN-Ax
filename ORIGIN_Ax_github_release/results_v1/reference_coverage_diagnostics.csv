@@ -1,5 +1,0 @@
-dataset,target_setting,n_gene_universe,n_target_reference_genes,n_target_reference_genes_in_universe,target_reference_coverage,n_offtarget_reference_genes,n_offtarget_reference_genes_in_universe,offtarget_reference_coverage,decoy_diversity,ambiguous_marker_fraction,mean_top_gene_reference_hit_rate,category_coverage,warnings
-real_positive_xenium_myeloid,myeloid_inflammatory,382,7,7,1.0,56,43,0.7678571428571429,9,0.125,0.5,ECM:12;endothelial:2;fibroblast:12;malignant_melanoma:6;myeloid_inflammatory:14;normal_epithelial:6;stromal:12;target:7;tme:23;tnk_cytotoxic:6,none
-target_swap_xenium,myeloid_inflammatory,382,7,7,1.0,26,26,1.0,2,0.0,0.2666666666666667,normal_epithelial:6;target:7;tme:20,none
-target_swap_xenium,stromal_fibroblast_ecm,382,6,6,1.0,42,42,1.0,2,0.0,0.4166666666666667,normal_epithelial:6;target:6;tme:36,none
-visium_hd_crc_stress,malignant_crc,18082,158,158,1.0,1245,1245,1.0,2,0.0718105423987777,0.6666666666666666,normal_epithelial:1055;target:158;tme:435,none

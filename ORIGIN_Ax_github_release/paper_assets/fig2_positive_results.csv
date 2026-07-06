@@ -1,5 +1,0 @@
-dataset,setting_type,n_candidates,n_axis_families,n_target_families,n_strict_positive_families,main_positive_family,key_program,main_result
-controlled_positive,controlled_positive,40,2,1,NA,F1,synthetic malignant-state axis,planted target-origin family recovered
-pseudo_st_balanced,semi_real_positive,40,1,1,NA,F0,melanoma malignant-expression program,target-origin family recovered
-pseudo_st_low_purity,semi_real_positive,40,2,1,NA,F0,melanoma malignant-expression program under low purity,target-origin family recovered
-real_positive_xenium_myeloid,real_positive,24,3,1,1,F1,myeloid inflammatory / antigen-presentation program,strict real-positive target axis recovered
