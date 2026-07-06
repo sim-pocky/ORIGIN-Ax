@@ -1,0 +1,2 @@
+dataset,target,anchor_genes,heldout_genes,target_cell_types,n_neighborhoods,neighbor_cells
+xenium_lung,lymphoid_immune,"CD3D,CD79A,NKG7,PRF1,TRAC","CD3E,CD8A,GZMB,MS4A1,MZB1","T_cell,NK,B_cell",4000,25

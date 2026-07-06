@@ -1,0 +1,3 @@
+family_id,role,top_genes,heldout_target_gene_overlap,max_offtarget_source,off_target_affinity,origin_core_score,family_label,final_call,strict_positive,false_target_boundary
+F1,strict_real_positive,"CTSL,CD68,GYPC,C1QA,CD163,GNG11,ITGAX,GIMAP7,TMEM176A,CD14,IRF8,TYR",4,none,0.0592139118097064,0.5668143458003091,target_origin_supported,target_axis,True,False
+F2,stromal_offtarget_corrected,"MMP2,COL6A1,COL6A2,COL6A3,FN1,CXCL12,PTGDS,LUM,SFRP2,PDGFRB,COL5A2,POSTN",0,stromal,0.6056353225641452,-0.23467512079835434,stromal_like,not_target_axis,False,False

@@ -1,0 +1,13 @@
+dataset,baseline,target_calls,truth_supported_calls,unsupported_promotions,offtarget_rejected
+pseudo_ST_positive,marker_only_top_gene,18,18,0,0
+pseudo_ST_positive,marker_plus_offtarget_filter,18,18,0,0
+pseudo_ST_positive,expression_only_graph_annotation,1,0,1,
+pseudo_ST_positive,origin_ax_full,6,6,0,0
+real_positive_xenium_myeloid,marker_only_top_gene,14,8,6,0
+real_positive_xenium_myeloid,marker_plus_offtarget_filter,11,8,3,3
+real_positive_xenium_myeloid,expression_only_graph_annotation,2,1,1,
+real_positive_xenium_myeloid,origin_ax_full,2,2,0,3
+visium_hd_crc_stress,marker_only_top_gene,57,0,57,0
+visium_hd_crc_stress,marker_plus_offtarget_filter,0,0,0,57
+visium_hd_crc_stress,expression_only_graph_annotation,2,0,2,
+visium_hd_crc_stress,origin_ax_full,0,0,0,3

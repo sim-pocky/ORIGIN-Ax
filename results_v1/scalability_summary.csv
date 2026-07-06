@@ -1,0 +1,7 @@
+n_candidate_axes,pairwise_axis_comparisons,similarity_matrix_mb_float64,dominant_step,asymptotic_cost,practical_note
+24,276,0.005,pairwise loading/top-gene similarity,O(A^2 * G) for A axes and G genes; scoring is O(F * G),"axis count, not bin count, dominates refinement after decomposition"
+50,1225,0.02,pairwise loading/top-gene similarity,O(A^2 * G) for A axes and G genes; scoring is O(F * G),"axis count, not bin count, dominates refinement after decomposition"
+100,4950,0.08,pairwise loading/top-gene similarity,O(A^2 * G) for A axes and G genes; scoring is O(F * G),"axis count, not bin count, dominates refinement after decomposition"
+250,31125,0.5,pairwise loading/top-gene similarity,O(A^2 * G) for A axes and G genes; scoring is O(F * G),"axis count, not bin count, dominates refinement after decomposition"
+500,124750,2.0,pairwise loading/top-gene similarity,O(A^2 * G) for A axes and G genes; scoring is O(F * G),"axis count, not bin count, dominates refinement after decomposition"
+1000,499500,8.0,pairwise loading/top-gene similarity,O(A^2 * G) for A axes and G genes; scoring is O(F * G),"axis count, not bin count, dominates refinement after decomposition"

@@ -1,0 +1,6 @@
+dataset,audit,observed_pruned_expression_edges,null_mean_conflict_edges,null_sd_conflict_edges,empirical_p_ge_observed,n_permutations
+controlled_positive,origin_profile_permutation_conflict_edges,56,80.14,5.491484316648824,1.0,1000
+pseudo_st_balanced,origin_profile_permutation_conflict_edges,34,73.926,5.648054886418863,1.0,1000
+pseudo_st_low_purity,origin_profile_permutation_conflict_edges,36,84.41,5.805678254950062,1.0,1000
+real_positive_xenium_myeloid,origin_profile_permutation_conflict_edges,11,16.425,2.9523507582941426,0.9690309690309691,1000
+visium_hd_crc_stress,origin_profile_permutation_conflict_edges,48,127.925,7.35957709382815,1.0,1000

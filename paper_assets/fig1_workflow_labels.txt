@@ -1,0 +1,9 @@
+ORIGIN-Ax workflow labels
+
+1. Input mixed spatial transcriptomics expression and spatial coordinates.
+2. Generate candidate axes from standard decompositions: ICA, NMF, high-target-evidence subset ICA, and high-target-evidence subset NMF.
+3. Group candidate axes into axis families using loading similarity and top-gene overlap.
+4. Score each family using target-origin evidence, off-target evidence, and consensus stability.
+5. Apply target-specific off-target references for real-positive interpretation.
+6. Report target-axis, off-target, downgraded, or non-identifiable families.
+7. Restrict biological claims to allowed evidence levels.

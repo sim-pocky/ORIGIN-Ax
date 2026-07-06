@@ -1,0 +1,4 @@
+dataset,family_id,audit,observed,null_mean,null_sd,empirical_p,n_permutations
+real_positive_xenium_myeloid,F0,gene_label_permutation_target_margin,0.5833333333333334,-0.044,0.1059092903279867,0.000999000999000999,1000
+real_positive_xenium_myeloid,F1,gene_label_permutation_offtarget_rejection,0.25,0.013583333333333333,0.033378198972782616,0.001998001998001998,1000
+visium_hd_crc_stress,axis5_like,gene_label_permutation_malignant_margin,-0.5,-0.7663333333333334,0.1836660617049928,0.16483516483516483,1000

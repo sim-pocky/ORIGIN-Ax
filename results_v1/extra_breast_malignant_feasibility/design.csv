@@ -1,0 +1,2 @@
+dataset,target,anchor_genes,heldout_genes,target_cell_types,n_neighborhoods,neighbor_cells
+xenium_breast,malignant_breast,"EPCAM,ESR1,GATA3,KRT14,KRT7,TACSTD2,TOP2A","ERBB2,FOXA1,KRT15,KRT5,KRT8,MKI67,PGR",Malignant,4000,25

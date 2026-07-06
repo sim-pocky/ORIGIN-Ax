@@ -1,0 +1,5 @@
+dataset,dropped_offtarget_reference_fraction,n_axis_families,n_strict_positive_families,n_forbidden_offtarget_rejected,target_recovery_stable,offtarget_rejection_stable
+real_positive_xenium_myeloid,0.0,2,1,1,True,True
+real_positive_xenium_myeloid,0.2,2,1,1,True,True
+real_positive_xenium_myeloid,0.4,2,1,1,True,True
+real_positive_xenium_myeloid,0.6,5,1,2,True,True

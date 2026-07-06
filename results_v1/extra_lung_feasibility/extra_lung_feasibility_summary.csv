@@ -1,0 +1,2 @@
+gates_passed,n_candidates,n_axis_families,dataset,target,n_target_families,n_strict_positive_families,n_non_strict_target_families,n_false_target_calls_under_lung_strict_rule,n_forbidden_offtarget_rejected,main_positive_family,main_positive_top_genes,final_use
+True,24,5,extra_xenium_lung_lymphoid_immune,lymphoid_immune,1,1,0,0,0,F2,"CXCR4,TRAC,PTPRC,IL7R,CYTIP,CD3E,CCL5,CD2,CD3D,PRDM1,GZMK,GPR183",supplement_candidate

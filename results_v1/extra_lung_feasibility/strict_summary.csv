@@ -1,0 +1,6 @@
+family_id,final_call,heldout_target_gene_overlap,max_offtarget_source,off_target_affinity,strict_positive,false_target_boundary
+F0,off_target_axis,0,none,0.4271817082803375,False,False
+F1,off_target_axis,0,none,0.20537274021439292,False,False
+F2,target_axis,3,none,6.508479608647409e-10,True,False
+F3,not_target_axis,0,none,0.02781048159995767,False,False
+F4,off_target_axis,0,none,0.11398710908187658,False,False

@@ -1,0 +1,2 @@
+dataset,target,gates_passed,n_candidates,n_axis_families,n_target_families,n_strict_positive_families,n_non_strict_target_families,n_false_target_calls_under_breast_strict_rule,n_forbidden_offtarget_rejected,main_positive_family,main_positive_top_genes,final_use
+extra_xenium_breast_malignant,malignant_breast,True,24,3,1,1,0,0,0,F0,"KRT7,EPCAM,ERBB2,FOXA1,GATA3,KRT8,SCD,TACSTD2,CCND1,ANKRD30A,MLPH,FASN",supplement_candidate
